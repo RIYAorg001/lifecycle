@@ -1,0 +1,75 @@
+/* You can add global styles to this file, and also import other style files */
+h1{
+    background-color: #e7661b;
+    color: #0a0807;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 350%;
+
+}
+h2{
+    background-color: #0a0807;
+    color:rgb(57, 145, 238);
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 350%;
+
+    font-weight: 500;
+
+    }
+
+
+
+
+button{
+
+        background-color: rgba(203, 86, 86, 0.728);
+    
+        border: none;
+    
+        border-radius: 4px;
+    
+        cursor:pointer;
+    
+        color: rgb(11, 10, 10);
+    
+        font-size: 1rem;
+    
+        padding: 1rem;
+    
+        margin-right: 1rem;
+    
+        margin-bottom: 1rem;
+    
+        margin-top: 1rem;
+    
+       
+    
+        }
+    
+       
+    
+    button:hover{
+    
+        background-color: rgb(21, 20, 20);
+    
+        color: #843f3f;
+    
+        }
+    
+       
+    
+    button:disabled{
+    
+        background-color: rgb(246, 202, 60);
+    
+        color: rgb(252, 247, 247);
+    
+        cursor: auto;
+    
+        }
+    
+    
+    
